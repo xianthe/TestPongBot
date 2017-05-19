@@ -17,7 +17,7 @@ namespace TestPongBot
             client.Log += Log;
             client.MessageReceived += MessageReceived;
 
-            string token = "MzEzODkwNTczNDA2ODMwNTky.C_5evQ.-6NxiFxs9ZHCrNvtgNl5fEd1eUg"; // Remember to keep this private!
+            string token = ""; // Remember to keep this private!
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
 
