@@ -1,0 +1,9 @@
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\bin\Debug\netcoreapp1.1\TestPongBot.deps.json
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\bin\Debug\netcoreapp1.1\TestPongBot.runtimeconfig.json
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\bin\Debug\netcoreapp1.1\TestPongBot.runtimeconfig.dev.json
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\bin\Debug\netcoreapp1.1\TestPongBot.dll
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\bin\Debug\netcoreapp1.1\TestPongBot.pdb
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\obj\Debug\netcoreapp1.1\TestPongBot.csprojResolveAssemblyReference.cache
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\obj\Debug\netcoreapp1.1\TestPongBot.AssemblyInfo.cs
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\obj\Debug\netcoreapp1.1\TestPongBot.dll
+Z:\Users\vthompson\RiderProjects\TestPongBot\TestPongBot\obj\Debug\netcoreapp1.1\TestPongBot.pdb
